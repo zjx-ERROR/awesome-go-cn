@@ -1,17 +1,3 @@
-【导读】：[awesome-go](https://github.com/avelino/awesome-Go) 就是 `avelino` 发起维护的 Go 资源列表，内容包括：音频和音乐库、命令行工具、服务端应用、流处理、持续集成、数据库、机器学习、NLP、物联网、中间件、文本处理、安全、机器人技术等。
-
-这个列表堪称最全面的 Go 资源汇总，在 GitHub 已有近 `6 万 Star`。
-
-中文版由`开源前哨`和`Go开发大全`微信公号团队维护更新，在 GitHub 已有近`3100 Star`，欢迎在 Github 上关注。这个中文版的资源库会定期同步更新到这里。
-
-#### 本项目的参与者
-
-- 维护者：`开源前哨`和`Go开发大全`微信公号团队。 「开源前哨」会定期在知乎专栏分享最新、有趣和热门的开源项目，每个项目都有详细的介绍和示例。传送门：<https://www.zhihu.com/column/c_1317124962785062912>
-
-- 贡献者： [xiaokugua250](https://github.com/xiaokugua250)、[艾凌风](https://github.com/hanxiaomax)、[Allenxuxu](https://github.com/Allenxuxu)、[sanrentai](https://github.com/sanrentai)、[wu.zhenhuan](https://github.com/hawkwzh)、[tangyouhua](https://github.com/tangyouhua)
-
-注：名单不分排名，不定期补充更新
-
 # 资源列表
 
 - [目录](#目录)
